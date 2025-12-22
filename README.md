@@ -22,20 +22,19 @@ Platform Engineer specializing in FinOps, infrastructure optimization, and syste
 
 **Contributions**
 - **[ministryofjustice/terraform-tag-validator](https://github.com/ministryofjustice/terraform-tag-validator)** (Maintainer) - Official MoJ infrastructure tooling
-- **[ministryofjustice/cloud-platform-infrastructure](https://github.com/ministryofjustice/cloud-platform-infrastructure)** - Platform automation contributions
 
 ## Recent Achievements
 
 **Cost Optimization**
 - £108,069 annual savings: 732 EBS volumes (50.9TB) systematically optimized
 - Created 7-step verification methodology preventing false positives
-- Methodology adopted by Modernisation Platform and other teams
+- Methodology adopted by multiple teams across the organization
 - Estimated £50-100K additional organizational savings from methodology reuse
 
 **Infrastructure Reliability**
 - Resolved 18-day Velero backup failure (127 consecutive failures)
 - Day-by-day systematic diagnosis preventing six-figure data loss
-- Implemented proactive monitoring (70% warning, 85% critical thresholds)
+- Recommended proactive monitoring thresholds (70% warning, 85% critical)
 
 **Security Architecture**
 - Architected secure RDS logs pipeline (S3+SQS) serving 1000+ namespaces
@@ -46,7 +45,7 @@ Platform Engineer specializing in FinOps, infrastructure optimization, and syste
 **Risk Management**
 - Prevented £100K+ production incident by validating "orphaned" ENIs with AWS
 - Discovered resources were intentionally reserved for OpenSearch blue/green deployments
-- Integrity over activity: chose thoroughness despite pressure to delete quickly
+- Chose thoroughness despite pressure to delete quickly
 
 ## Approach
 
@@ -66,10 +65,12 @@ Platform Engineer specializing in FinOps, infrastructure optimization, and syste
 
 ## Tech Stack
 
-**Cloud:** AWS (EC2, EBS, RDS, S3, CloudWatch, Cost Explorer, Athena, QuickSight)  
+**Cloud:** AWS (EC2, EBS, RDS, S3, IAM, SCP, CloudWatch, CloudTrail, Cost Explorer, Athena, QuickSight, SSM Parameter Store, OpenSearch)  
 **IaC:** Terraform, Helm  
 **Platform:** Kubernetes, Docker, Velero  
 **CI/CD:** GitHub Actions, Concourse  
+**Security & Compliance:** Checkov, tfsec, OPA, Gitleaks  
+**FinOps & Governance:** terraform-tag-validator, AWS Cost Explorer, Athena  
 **Languages:** Python (Boto3), Go, Bash  
 **Monitoring:** Grafana, Prometheus
 
