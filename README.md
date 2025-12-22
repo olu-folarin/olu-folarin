@@ -65,7 +65,7 @@ Platform Engineer specializing in FinOps, infrastructure optimization, and syste
 
 ## Tech Stack
 
-**Cloud:** AWS (EC2, EBS, RDS, S3, IAM, SCP, CloudWatch, CloudTrail, Cost Explorer, Athena, QuickSight, SSM Parameter Store, OpenSearch)  
+**Cloud:** AWS (EC2, EBS, RDS, S3, IAM, SCP, CloudWatch, CloudTrail, Cost Explorer, Athena, QuickSight, SSM Parameter Store, OpenSearch, ECR, ECS, EKS, etc.)  
 **IaC:** Terraform, Helm  
 **Platform:** Kubernetes, Docker, Velero  
 **CI/CD:** GitHub Actions, Concourse  
