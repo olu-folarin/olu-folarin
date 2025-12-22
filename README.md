@@ -1,82 +1,46 @@
 # Folarin Oyenuga
 
-Platform Engineer specializing in FinOps, infrastructure optimization, and systematic problem-solving that creates organizational leverage.
+**DevOps Engineer @ UK Ministry of Justice** | FinOps & Cloud Governance Specialist
 
-## Impact Highlights
+I build infrastructure tooling that prevents costly mistakes at scale—creating organizational leverage through systematic problem-solving and force-multiplying automation.
 
-💰 **£108,069 annual AWS savings** through systematic EBS optimization methodology  
-🛠️ **Official maintainer** of [terraform-tag-validator](https://github.com/ministryofjustice/terraform-tag-validator) (MoJ infrastructure tooling)  
-🔧 **Prevented six-figure data loss** by resolving 18-day disaster recovery crisis  
-📊 **Leading FinOps initiatives** across 8 UK government departments  
-🎯 **Force multiplication:** Methodologies adopted by 3+ teams generating £50-100K additional organizational savings
+## Impact
 
-## Open Source Work
+💰 **£108,069 annual AWS savings** - Systematic EBS optimization methodology adopted by 3+ teams  
+� **Prevented six-figure data loss** - Resolved 18-day disaster recovery crisis through systematic diagnosis  
+�🛠️ **Official MoJ maintainer** - [terraform-tag-validator](https://github.com/ministryofjustice/terraform-tag-validator) enforcing tag compliance at scale  
+📊 **8 government departments** - Leading FinOps initiatives across UK public sector
 
-**Infrastructure Tooling**
-- **[terraform-tag-validator](https://github.com/olu-folarin/terraform-tag-validator)** - Pre-merge tag enforcement (personal implementation)
-  - Organization variant: [ministryofjustice/terraform-tag-validator](https://github.com/ministryofjustice/terraform-tag-validator) (maintainer)
+## Featured Work
 
-**Methodologies & Frameworks**
-- **[aws-ebs-optimization-methodology](https://github.com/olu-folarin/aws-ebs-optimization-methodology)** - 7-step verification framework for safe EBS cleanup (£108K+ proven savings)
-- **[disaster-recovery-systematic-diagnosis](https://github.com/olu-folarin/disaster-recovery-systematic-diagnosis)** - Root cause analysis framework for DR failures
+### [Terraform Tag Validator](https://github.com/ministryofjustice/terraform-tag-validator)
+**Official MoJ Infrastructure Tooling** | Python, Docker, GitHub Actions
 
-**Contributions**
-- **[ministryofjustice/terraform-tag-validator](https://github.com/ministryofjustice/terraform-tag-validator)** (Maintainer) - Official MoJ infrastructure tooling
+Pre-deployment tag compliance enforcement preventing cost attribution gaps across AWS infrastructure. Validates 25+ resource types with configurable YAML rules, posts detailed PR feedback with exact violations.
 
-## Recent Achievements
+**Original author** - Now maintained as official Ministry of Justice tooling, currently being evaluated for organization-wide adoption to meet 2026 OKR: 100% tag compliance.
 
-**Cost Optimization**
-- £108,069 annual savings: 732 EBS volumes (50.9TB) systematically optimized
-- Created 7-step verification methodology preventing false positives
-- Methodology adopted by multiple teams across the organization
-- Estimated £50-100K additional organizational savings from methodology reuse
+### Cost Optimization Methodologies
+- **[EBS Optimization Framework](https://github.com/olu-folarin/aws-ebs-optimization-methodology)** - 7-step verification delivering £108K savings
+- **[DR Systematic Diagnosis](https://github.com/olu-folarin/disaster-recovery-systematic-diagnosis)** - Root cause analysis framework for critical incidents
 
-**Infrastructure Reliability**
-- Resolved 18-day Velero backup failure (127 consecutive failures)
-- Day-by-day systematic diagnosis preventing six-figure data loss
-- Recommended proactive monitoring thresholds (70% warning, 85% critical)
+## Technical Expertise
 
-**Security Architecture**
-- Architected secure RDS logs pipeline (S3+SQS) serving 1000+ namespaces
-- Cross-account IAM roles with External ID pattern
-- 2,698+ messages processed with metadata preservation
-- Senior security leadership requested architecture presentation
-
-**Risk Management**
-- Prevented £100K+ production incident by validating "orphaned" ENIs with AWS
-- Discovered resources were intentionally reserved for OpenSearch blue/green deployments
-- Chose thoroughness despite pressure to delete quickly
+**Cloud:** AWS (EC2, EBS, RDS, S3, IAM, EKS) • Terraform • Kubernetes  
+**Platform:** GitHub Actions • Policy-as-Code (OPA, Checkov, tfsec) • CI/CD  
+**Languages:** Python (Boto3) • Go • Bash  
+**Focus:** FinOps • Cloud Governance • Cost Attribution • Security Compliance
 
 ## Approach
 
-**"90% research, 10% execution"** - Systematic validation prevents expensive mistakes:
-- Velero crisis: Day-by-day memory analysis identified root cause (PV growth correlation)
-- ENI investigation: AWS validation prevented six-figure production outage
-- EBS optimization: 7-step verification enabled confident deletion (zero false positives)
-
-**Force multiplication focus:**
-- Don't just solve problems - create reusable methodologies
-- Document for organizational learning and knowledge transfer
-- Build tooling that scales beyond individual contribution
-
-## Specializations
-
-`FinOps` `AWS Cost Optimization` `Platform Engineering` `Kubernetes` `Terraform` `Infrastructure as Code` `Cloud Governance` `Disaster Recovery` `Security Architecture` 
-
-## Tech Stack
-
-**Cloud:** AWS (EC2, EBS, RDS, S3, IAM, SCP, CloudWatch, CloudTrail, Cost Explorer, Athena, QuickSight, SSM Parameter Store, OpenSearch, ECR, ECS, EKS, etc.)  
-**IaC:** Terraform, Helm  
-**Platform:** Kubernetes, Docker, Velero  
-**CI/CD:** GitHub Actions, Concourse  
-**Security & Compliance:** Checkov, tfsec, OPA, Gitleaks  
-**FinOps & Governance:** terraform-tag-validator, AWS Cost Explorer, Athena  
-**Languages:** Python (Boto3), Go, Bash  
-**Monitoring:** Grafana, Prometheus
+I solve organizational problems, not just technical tasks:
+1. **Identify systematic gaps** - Manual processes that don't scale
+2. **Build automated solutions** - Tooling that enforces best practices
+3. **Enable adoption** - Optimize developer experience for minimal friction
+4. **Measure impact** - £ saved, risks prevented, time recovered
 
 ---
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/folarin-o-46389b128/) • ✉️ folarinoyenuga200@gmail.com
+📫 **Connect:** [LinkedIn](https://linkedin.com/in/folarin-o-46389b128) • folarinoyenuga200@gmail.com
 
-**Current:** DevOps Engineer at UK Ministry of Justice (COAT Team)  
-**Focus:** FinOps governance, cost accountability, infrastructure optimization across regulated government environments
+💡 **Open to opportunities** in Platform Engineering, FinOps, and Infrastructure Automation where systematic problem-solving drives measurable business impact.
