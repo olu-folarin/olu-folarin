@@ -8,7 +8,7 @@ I build infrastructure tooling that prevents costly mistakes at scale—creating
 
 💰 **£108,069 annual AWS savings** - Systematic EBS optimization methodology adopted by 3+ teams  
 � **Prevented six-figure data loss** - Resolved 18-day disaster recovery crisis through systematic diagnosis  
-�🛠️ **Official MoJ maintainer** - [terraform-tag-validator](https://github.com/ministryofjustice/terraform-tag-validator) enforcing tag compliance at scale  
+��️ **Official MoJ maintainer** - [terraform-tag-validator](https://github.com/ministryofjustice/terraform-tag-validator) enforcing tag compliance at scale  
 📊 **8 government departments** - Leading FinOps initiatives across UK public sector
 
 ## Featured Work
@@ -21,7 +21,7 @@ Pre-deployment tag compliance enforcement preventing cost attribution gaps acros
 **Original author** - Now maintained as official Ministry of Justice tooling, currently being evaluated for organization-wide adoption to meet 2026 OKR: 100% tag compliance.
 
 ### Cost Optimization Methodologies
-- **[EBS Optimization Framework](https://github.com/olu-folarin/aws-ebs-optimization-methodology)** - 7-step verification delivering £108K savings
+- **[EBS Optimization Framework](https://github.com/olu-folarin/aws-ebs-optimization-methodology-)** - 7-step verification delivering £108K savings
 - **[DR Systematic Diagnosis](https://github.com/olu-folarin/disaster-recovery-systematic-diagnosis)** - Root cause analysis framework for critical incidents
 
 ## Technical Expertise
