@@ -9,7 +9,7 @@ I build infrastructure tooling that prevents costly mistakes at scale—creating
 💰 **£108,069 annual AWS savings** - Systematic EBS optimization methodology adopted by 3+ teams  
 � **Prevented six-figure data loss** - Resolved 18-day disaster recovery crisis through systematic diagnosis  
 ��️ **Official MoJ maintainer** - [terraform-tag-validator](https://github.com/ministryofjustice/terraform-tag-validator) enforcing tag compliance at scale  
-📊 **8 government departments** - Leading FinOps initiatives across UK public sector
+📊 **Cross-department impact** - Supporting FinOps initiatives across multiple teams in UK government
 
 ## Featured Work
 
