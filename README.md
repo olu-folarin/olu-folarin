@@ -25,7 +25,7 @@ Currently being evaluated alongside Checkov, OPA, and tfsec for tag compliance.
 ### Can I Tag AWS
 **Untaggable Resource Detection** | Python, Docker, GitHub Actions
 
-Automatically detects which AWS resources cannot be tagged, enabling accurate SCP policies and avoiding compliance gaps. Useful for FinOps teams tracking cost allocation coverage and platform engineers writing tag enforcement policies.
+Automatically detects which AWS resources cannot be tagged, enabling accurate SCP policies and avoiding compliance gaps.
 
 **Repository:** https://github.com/olu-folarin/can-i-tag-aws
 
