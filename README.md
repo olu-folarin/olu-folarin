@@ -2,14 +2,14 @@
 
 **Platform Engineer | FinOps & Cloud Infrastructure Specialist**
 
-I build infrastructure tooling that prevents costly mistakes at scale—creating organizational leverage through systematic problem-solving and force-multiplying automation.
+I build infrastructure tooling that prevents costly mistakes at scale.
 
 ## Impact
 
-💰 **£108K+ annual savings** - Systematic EBS optimization methodology with cross-team adoption  
-🚨 **Prevented six-figure data loss** - Resolved 18-day disaster recovery crisis through systematic diagnosis  
-🛡️ **terraform-tag-validator maintainer** - Tag compliance enforcement for large-scale infrastructure  
-📊 **Cross-department impact** - Supporting FinOps initiatives across multiple teams in UK government
+Significant ££ savings through EBS optimization methodology with cross-team adoption  
+Prevented six-figure data loss: resolved 18-day disaster recovery crisis through systematic diagnosis  
+Open-source maintainer of terraform-tag-validator and can-i-tag-aws  
+Supporting FinOps initiatives across multiple teams in UK government
 
 ## Featured Work
 
@@ -18,13 +18,20 @@ I build infrastructure tooling that prevents costly mistakes at scale—creating
 
 Pre-deployment tag compliance enforcement preventing cost attribution gaps across AWS infrastructure. Validates 25+ resource types with configurable YAML rules, posts detailed PR feedback with exact violations.
 
-Built for enterprise-scale infrastructure governance. Currently being evaluated alongside Checkov, OPA, and tfsec for organization-wide tag compliance initiatives.
+Currently being evaluated alongside Checkov, OPA, and tfsec for tag compliance.
 
-**Repository:** [github.com/olu-folarin/terraform-tag-validator](https://github.com/olu-folarin/terraform-tag-validator)
+**Repository:** https://github.com/olu-folarin/terraform-tag-validator
+
+### Can I Tag AWS
+**Untaggable Resource Detection** | Python, Docker, GitHub Actions
+
+Automatically detects which AWS resources cannot be tagged, enabling accurate SCP policies and avoiding compliance gaps. Useful for FinOps teams tracking cost allocation coverage and platform engineers writing tag enforcement policies.
+
+**Repository:** https://github.com/olu-folarin/can-i-tag-aws
 
 ### Cost Optimization Methodologies
-* **EBS Optimization Framework** - 7-step verification methodology for large-scale storage optimization
-* **DR Systematic Diagnosis** - Root cause analysis framework for critical incidents
+* **EBS Optimization Framework:** 7-step verification methodology for large-scale storage optimization
+* **DR Systematic Diagnosis:** Root cause analysis framework for critical incidents
 
 ## Technical Expertise
 
@@ -37,13 +44,11 @@ Built for enterprise-scale infrastructure governance. Currently being evaluated 
 
 I solve organizational problems, not just technical tasks:
 
-1. **Identify systematic gaps** - Manual processes that don't scale
-2. **Build automated solutions** - Tooling that enforces best practices
-3. **Enable adoption** - Optimize developer experience for minimal friction
-4. **Measure impact** - £ saved, risks prevented, time recovered
+1. **Identify systematic gaps:** manual processes that don't scale
+2. **Build automated solutions:** tooling that enforces best practices
+3. **Enable adoption:** optimise developer experience for minimal friction
+4. **Measure impact:** £ saved, risks prevented, time recovered
 
 ---
 
-📫 **Connect:** [LinkedIn](https://linkedin.com/in/folarin-o-46389b128) • folarinoyenuga200@gmail.com
-
-💡 Open to opportunities in Platform Engineering, FinOps, and Infrastructure Automation where systematic problem-solving drives measurable business impact.
+**Connect:** https://www.linkedin.com/in/folarin-o-46389b128/
